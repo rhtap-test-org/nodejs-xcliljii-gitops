@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/nodejs-xcliljii:b8ad38e3dfe2bbba31a1f219e860cbf820d168e4@sha256:1e39f51f3e16a5af882cd9e2b40bcea33c72e45e64e608361bbb1483fb4e02e9
+        - image: quay.io/tsscui/nodejs-xcliljii:e5909a0bfe1609d358a3ac17f6ac6a821c9118d1@sha256:59053e0e74c1036e2fcddc9e14e34f9eaddbd9b0a4504594f102b08aa1fac3a1
           name: container-image
